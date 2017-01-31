@@ -1,0 +1,6 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "window.zoomLevel": 0,
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay"
+  }
